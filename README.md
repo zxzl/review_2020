@@ -80,8 +80,9 @@ AutoLayout, CollectionView 활용, MVC/Delegate/Observer 패턴, 네트워크 �
 2. 다음의 코드에 직접 리뷰 의견을 남깁니다. [Web](https://github.com/connectfoundation/review_2020/tree/master/review_practice) / [iOS](https://github.com/boostcamp-3rd/iOS-teamA1)
 
 `리뷰 작성시 유의 사항`
- - 예시 코드를 fork하여 리뷰를 작성합니다.
- - 작성한 리뷰는 각 저장소의 `review` 브랜치로 Pull Request 합니다.
+ - 리뷰할 코드의 저장소를 fork합니다.
+ - 리뷰를 작성하기 위해 저장소의 비어있는 `review` 브랜치로 Pull Request 합니다.
+ - 내가 오픈한 PR에 코드 리뷰 코멘트를 남깁니다.
  - PR 로그가 없는 경우 미지원으로 간주합니다.
 
 ### 여러분의 많은 관심과 성원 부탁드립니다. 감사합니다.
